@@ -1,0 +1,47 @@
+{
+  "name": "Genesis Citrus CR-00002273",
+  "description": "Genesis Citrus creature from the founding orchard.",
+  "image": "https://raw.githubusercontent.com/movegous/killer-oranges/main/CR-00002273.png",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Acid Phantom"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Acid Citrus"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "HP",
+      "value": 48
+    },
+    {
+      "trait_type": "Attack",
+      "value": 52
+    },
+    {
+      "trait_type": "Defense",
+      "value": 55
+    },
+    {
+      "trait_type": "Speed",
+      "value": 48
+    },
+    {
+      "trait_type": "Juice",
+      "value": 57
+    },
+    {
+      "trait_type": "Signature Move",
+      "value": "Venom Ambush"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    }
+  ]
+}

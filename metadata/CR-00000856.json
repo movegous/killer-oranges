@@ -1,0 +1,47 @@
+{
+  "name": "Genesis Citrus CR-00000856",
+  "description": "Genesis Citrus creature from the founding orchard.",
+  "image": "https://raw.githubusercontent.com/movegous/killer-oranges/main/CR-00000856.png",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Spore Citrus"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rot Citrus"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "HP",
+      "value": 59
+    },
+    {
+      "trait_type": "Attack",
+      "value": 47
+    },
+    {
+      "trait_type": "Defense",
+      "value": 60
+    },
+    {
+      "trait_type": "Speed",
+      "value": 40
+    },
+    {
+      "trait_type": "Juice",
+      "value": 54
+    },
+    {
+      "trait_type": "Signature Move",
+      "value": "Fungal Burst"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    }
+  ]
+}

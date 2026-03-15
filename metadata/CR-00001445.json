@@ -1,0 +1,47 @@
+{
+  "name": "Genesis Citrus CR-00001445",
+  "description": "Genesis Citrus creature from the founding orchard.",
+  "image": "https://raw.githubusercontent.com/movegous/killer-oranges/main/CR-00001445.png",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Molten Fang"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire Citrus"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "HP",
+      "value": 51
+    },
+    {
+      "trait_type": "Attack",
+      "value": 65
+    },
+    {
+      "trait_type": "Defense",
+      "value": 48
+    },
+    {
+      "trait_type": "Speed",
+      "value": 50
+    },
+    {
+      "trait_type": "Juice",
+      "value": 46
+    },
+    {
+      "trait_type": "Signature Move",
+      "value": "Inferno Maul"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    }
+  ]
+}

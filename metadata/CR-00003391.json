@@ -1,0 +1,47 @@
+{
+  "name": "Genesis Citrus CR-00003391",
+  "description": "Genesis Citrus creature from the founding orchard.",
+  "image": "https://raw.githubusercontent.com/movegous/killer-oranges/main/CR-00003391.png",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Acid Emperor"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Acid Citrus"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "HP",
+      "value": 57
+    },
+    {
+      "trait_type": "Attack",
+      "value": 67
+    },
+    {
+      "trait_type": "Defense",
+      "value": 62
+    },
+    {
+      "trait_type": "Speed",
+      "value": 53
+    },
+    {
+      "trait_type": "Juice",
+      "value": 61
+    },
+    {
+      "trait_type": "Signature Move",
+      "value": "Sludge Ascension"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Genesis Citrus CR-00000057",
+  "description": "Genesis Citrus creature from the founding orchard.",
+  "image": "https://raw.githubusercontent.com/movegous/killer-oranges/main/CR-00000057.png",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Thorn Grove"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Wild Citrus"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "HP",
+      "value": 67
+    },
+    {
+      "trait_type": "Attack",
+      "value": 71
+    },
+    {
+      "trait_type": "Defense",
+      "value": 73
+    },
+    {
+      "trait_type": "Speed",
+      "value": 61
+    },
+    {
+      "trait_type": "Juice",
+      "value": 68
+    },
+    {
+      "trait_type": "Signature Move",
+      "value": "Vine Dominion"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    }
+  ]
+}

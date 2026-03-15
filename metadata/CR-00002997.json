@@ -1,0 +1,47 @@
+{
+  "name": "Genesis Citrus CR-00002997",
+  "description": "Genesis Citrus creature from the founding orchard.",
+  "image": "https://raw.githubusercontent.com/movegous/killer-oranges/main/CR-00002997.png",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Night Crown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shadow Citrus"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "HP",
+      "value": 46
+    },
+    {
+      "trait_type": "Attack",
+      "value": 52
+    },
+    {
+      "trait_type": "Defense",
+      "value": 46
+    },
+    {
+      "trait_type": "Speed",
+      "value": 66
+    },
+    {
+      "trait_type": "Juice",
+      "value": 50
+    },
+    {
+      "trait_type": "Signature Move",
+      "value": "Void Bloom"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    }
+  ]
+}

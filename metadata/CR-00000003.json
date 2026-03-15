@@ -1,0 +1,47 @@
+{
+  "name": "Genesis Citrus CR-00000003",
+  "description": "Genesis Citrus creature from the founding orchard.",
+  "image": "https://raw.githubusercontent.com/movegous/killer-oranges/main/CR-00000003.png",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Citrus Imperator"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Solar Citrus"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "HP",
+      "value": 73
+    },
+    {
+      "trait_type": "Attack",
+      "value": 90
+    },
+    {
+      "trait_type": "Defense",
+      "value": 79
+    },
+    {
+      "trait_type": "Speed",
+      "value": 83
+    },
+    {
+      "trait_type": "Juice",
+      "value": 75
+    },
+    {
+      "trait_type": "Signature Move",
+      "value": "Solar Dominion"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    }
+  ]
+}

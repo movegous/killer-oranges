@@ -1,0 +1,47 @@
+{
+  "name": "Genesis Citrus CR-00002803",
+  "description": "Genesis Citrus creature from the founding orchard.",
+  "image": "https://raw.githubusercontent.com/movegous/killer-oranges/main/CR-00002803.png",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Neon Knight"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyber Citrus"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "HP",
+      "value": 44
+    },
+    {
+      "trait_type": "Attack",
+      "value": 59
+    },
+    {
+      "trait_type": "Defense",
+      "value": 49
+    },
+    {
+      "trait_type": "Speed",
+      "value": 55
+    },
+    {
+      "trait_type": "Juice",
+      "value": 53
+    },
+    {
+      "trait_type": "Signature Move",
+      "value": "Binary Rush"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    }
+  ]
+}

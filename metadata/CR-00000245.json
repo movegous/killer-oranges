@@ -1,0 +1,47 @@
+{
+  "name": "Genesis Citrus CR-00000245",
+  "description": "Genesis Citrus creature from the founding orchard.",
+  "image": "https://raw.githubusercontent.com/movegous/killer-oranges/main/CR-00000245.png",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Zest Raider"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Wild Citrus"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "HP",
+      "value": 55
+    },
+    {
+      "trait_type": "Attack",
+      "value": 54
+    },
+    {
+      "trait_type": "Defense",
+      "value": 53
+    },
+    {
+      "trait_type": "Speed",
+      "value": 46
+    },
+    {
+      "trait_type": "Juice",
+      "value": 52
+    },
+    {
+      "trait_type": "Signature Move",
+      "value": "Feral Charge"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    }
+  ]
+}
